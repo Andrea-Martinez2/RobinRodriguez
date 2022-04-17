@@ -11,6 +11,9 @@ Es un sistema de información que esta deseñado para llevar a cabo el control d
 * :hammer: Laravel **[Laravel](https://cynoteck.com/es/blog-post/installing-laravel-8-on-windows-10-xampp/)** :round_pushpin:
 * :hammer: Postman **[Postman](https://programmerclick.com/article/1594856922/)** :round_pushpin:
 
+## Documentación de la API.
+* :hammer: [Documentacion de la API](https://documenter.getpostman.com/view/17244908/UVktoso5)
+
 ## :memo: Autores. 
 * :crown: Robin David Rodriguez Bautista.
 * :soccer: Jose Daniel Bermudez Salamanca.
