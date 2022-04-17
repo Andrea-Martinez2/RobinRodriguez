@@ -12,7 +12,7 @@ Es un sistema de información que esta deseñado para llevar a cabo el control d
 * :hammer: Postman **[Postman](https://programmerclick.com/article/1594856922/)** :round_pushpin:
 
 ## :memo: Autores. 
-* :soccer: Robin David Rodriguez Bautista.
+* :crown: Robin David Rodriguez Bautista.
 * :soccer: Jose Daniel Bermudez Salamanca.
 * :ribbon: Orealis Ospina Puentes.
 * :ribbon: Giver Andrea Martinez Hernandez.
