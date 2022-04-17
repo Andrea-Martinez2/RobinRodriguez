@@ -8,10 +8,10 @@ Es un sistema de información que esta deseñado para llevar a cabo el control d
 <a href="https://programmerclick.com/article/1594856922/" target="_blank"> <img src="https://www.sngular.com/wp-content/uploads/2021/12/postman-logo-vert-2018.jpg " alt="laravel" width="190" height="100"/> </a>
 
 ## :pushpin: Para mas información:
-* :hammer: Más sobre Laravel **[Laravel](https://cynoteck.com/es/blog-post/installing-laravel-8-on-windows-10-xampp/)** :round_pushpin:
-* :hammer: Más sobre Postman **[Postman](https://programmerclick.com/article/1594856922/)** :round_pushpin:
+* :hammer: Más sobre **[Laravel](https://cynoteck.com/es/blog-post/installing-laravel-8-on-windows-10-xampp/)** :round_pushpin:
+* :hammer: Más sobre **[Postman](https://programmerclick.com/article/1594856922/)** :round_pushpin:
 
-## Documentación de la API.
+## :clipboard:Documentación de la API.
 * :card_index: **[Documentacion de la API](https://documenter.getpostman.com/view/17244908/UVktoso5)**
 
 ## :memo: Autores. 
