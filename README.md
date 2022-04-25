@@ -1,5 +1,11 @@
 ## :computer: Modernatec. 
-Es un sistema de información que esta deseñado para llevar a cabo el control de ingreso y salida de personal de entidades laborales e institucionales a través de registros con reconicomiento facial.
+Es un sistema de información que esta diseñado para llevar a cabo el control de ingreso y salida de personal de entidades laborales e institucionales a través de registros con reconocomiento facial, este se manejara por medio de tres roles (rol administrador de sistema, rol administrador de seguridad, rol administrador de registros).
+
+
+## :rocket: Estado del proyecto.
+En desarrollo-->
+Justificar en que parte del desarrollo se encuentra
+
 
 ## Backend
 
@@ -14,8 +20,15 @@ Es un sistema de información que esta deseñado para llevar a cabo el control d
 ## :clipboard:Documentación de la API.
 * :card_index: **[Documentacion de la API](https://documenter.getpostman.com/view/17244908/UVktoso5)**
 
+
+## :scroll:Pre-Requisitos.
+Pegar las imagenes y el codigo que necesita para ser instalado.
+
+
+
 ## :memo: Autores. 
 * :crown: Robin David Rodríguez Bautista.
 * :soccer: Jose Daniel Bermudez Salamanca.
 * :ribbon: Orealis Ospina Puentes.
 * :ribbon: Giver Andrea Martinez Hernandez.
+
