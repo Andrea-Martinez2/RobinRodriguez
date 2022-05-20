@@ -13,7 +13,8 @@ Le permitira al administrador registrar un nuevo usuario realizarle el reconocim
 ![](https://cdn.dribbble.com/users/3735399/screenshots/6799273/icon_9.gif)
 
 # :book: Pre-Requisitos.
-:wrench: Para obtener mas informacion de la instalacion y los pre-requisitos de clic en el link: **[Pre-requisitos - Instalacion](https://github.com/310pepe/modernatec/tree/master/back/back_Robin/modernatec-v4-final)** :bulb:
+:wrench: Para obtener mas informacion de la instalacion y los pre-requisitos de clic en el link: 
+**[Pre-requisitos - Instalacion](https://github.com/310pepe/modernatec/tree/master/back/back_Robin/modernatec-v4-final)** :bulb:
 
 
 # :rocket: Estado del proyecto.
