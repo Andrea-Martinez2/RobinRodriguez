@@ -34,7 +34,7 @@ En desarrollo-->
 
 
 
-# :memo: Autores. 
+# :black_nib:Autores. 
 * :crown: Robin David Rodríguez Bautista.
 * :soccer: Jose Daniel Bermudez Salamanca.
 * :ribbon: Orealis Ospina Puentes.
